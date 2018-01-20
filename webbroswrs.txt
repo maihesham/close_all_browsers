@@ -1,0 +1,7 @@
+google-chrome.exe	
+chrome.exe
+chromium.exe	
+chromium-browser.exe
+baidu.exe	
+mozilla.exe	 
+firefox.exe		 
